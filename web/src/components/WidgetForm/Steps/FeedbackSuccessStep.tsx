@@ -19,7 +19,6 @@ export function FeedbackSuccessStep({ onFeedbackRestartRequested }: FeedbackSucc
 
                 <span className="text-xl mt-2">Agradecemos o feedback!</span>
 
-
                 <button
                     type="button"
                     onClick={onFeedbackRestartRequested}
